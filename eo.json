@@ -423,17 +423,17 @@
         "Login.MissingUID": "La aparatinformo mankas",
         "Login.MissingUID.Description": "Bonvolu provi reinstali, aŭ kontakti subtenadon je support.resonite.com.",
 
-                "Login.MissingSecretMachineId": "Missing secret machine ID",
-                "Login.MissingSecretMachineId.Description": "Try reinstalling, or contact support at {supportUrl}.",
+        "Login.MissingSecretMachineId": "La sekreta identigilo de la maŝino mankas",
+        "Login.MissingSecretMachineId.Description": "Provu reinstali, aŭ kontakti subtenadon je {supportUrl}.",
 
-                "Login.MalformedSecretMachineId": "Invalid secret machine ID",
-                "Login.MalformedSecretMachineId.Description": "Try reinstalling, or contact support at {supportUrl}.",
+        "Login.MalformedSecretMachineId": "Nevalida sekreta identigilo de la maŝino",
+        "Login.MalformedSecretMachineId.Description": "Provu reinstali, aŭ kontakti subtenadon je {supportUrl}.",
         
         "Register.MissingUID": "La aparatinformo mankas",
-        "Register.MissingUID.Description": "Bonvolu provi reinstali, aŭ kontakti subtenadon je support.resonite.com.",
+        "Register.MissingUID.Description": "Bonvolu provi reinstali, aŭ kontakti subtenadon je {supportUrl}.",
         
         "Register.MalformedUID": "Nevalida aparatinformo",
-        "Register.MalformedUID.Description": "Bonvolu provi reinstali, aŭ kontakti subtenadon je support.resonite.com.",
+        "Register.MalformedUID.Description": "Bonvolu provi reinstali, aŭ kontakti subtenadon je {supportUrl}.",
 
         "Login.MissingLogin": "Mankas indentigiloj",
         "Login.MissingLogin.Description": "Ĉu vi forgesis provizi identigilojn?",
@@ -448,16 +448,16 @@
         "Login.EmailNotVerified.Description": "Via retadreso ne estas aprobita. Bonvolu kontroli vian enirkeston por retmesaĝo nia. Ne forgesu kontroli vian spamujon.",
 
         "Login.AccountTempLocked": "Via konto estas ŝlosita.",
-        "Login.AccountTempLocked.Description": "Bonvolu kontakti Moderigadon ĉe: moderation.resonite.com.",
+        "Login.AccountTempLocked.Description": "Bonvolu kontakti Moderigadon ĉe: {moderationUrl}.",
 
         "Login.AccountBanned": "Via konto estas forbarita.",
-        "Login.AccountBanned.Description": "Bonvolu kontakti Moderigadon ĉe: moderation.resonite.com.",
+        "Login.AccountBanned.Description": "Bonvolu kontakti Moderigadon ĉe: {moderationUrl}.",
 
         "Login.DuplicateAccount": "Duobla konto",
-        "Login.DuplicateAccount.Description": "Bonvolu kontakti subtenadon at support.resonite.com.",
+        "Login.DuplicateAccount.Description": "Bonvolu kontakti subtenadon at {moderationUrl}.",
 
         "Login.UnknownError": "Nekonata Eraro",
-        "Login.UnknownError.Description": "Nekonata eraro okazis dum ensaluto. login. Bonvolu kontakti la subtenejon per support.resonite.com",
+        "Login.UnknownError.Description": "Nekonata eraro okazis dum ensaluto. login. Bonvolu kontakti la subtenejon per {supportUrl}",
 
         "Register.MissingRequest": "La detaloj de la registriĝo mankas",
         "Register.MissingRequest.Description": "Ne povis trovi iujn ajn detalojn de registrado. Bonvolu certe inkluzivi ilin dum registrado.",
@@ -487,7 +487,7 @@
         "Register.InvalidDateOfBirth.Description": "Via naskiĝdato ne estas valida.",
         
         "Register.UsernameContainsBlockedTerms": "La uzantnomo enhavas barantajn vortojn",
-        "Register.UsernameContainsBlockedTerms.Description": "Via uzantnomo enhavas barantajn vortojn. Se vi creas ke ĉi tiu eraras, bonvolu kontakti subtenadon je support.resonite.com.",
+        "Register.UsernameContainsBlockedTerms.Description": "Via uzantnomo enhavas barantajn vortojn. Se vi creas ke ĉi tiu eraras, bonvolu kontakti subtenadon je {supportUrl}.",
 
         "Register.MissingPassword": "La pasvorto mankas",
         "Register.MissingPassword.Description": "Vi ne provizis pasvorton.",
@@ -496,13 +496,13 @@
         "Register.InvalidPassword.Description": "Via pasvorto ne estas valida. Ĝi devas enhavi minimune 8 signojn, 1 ciferon, 1 majusklon, kaj 1 minusklon.",
         
         "Register.EmailAlreadyRegistered": "La retpoŝta adreso estas ja registrigita",
-        "Register.EmailAlreadyRegistered.Description": "Konto uzante ĉi tiun retpoŝta adreso ja ekzistas, se vi forgesis vian pasvorton vi povas alklaki \"Pasvorto Perdita\". Or vi povas kontakti subtenadon per support.resonite.com.",
+        "Register.EmailAlreadyRegistered.Description": "Konto uzante ĉi tiun retpoŝta adreso ja ekzistas, se vi forgesis vian pasvorton vi povas alklaki \"Pasvorto Perdita\". Or vi povas kontakti subtenadon per {supportUrl}.",
 
         "Register.UsernameAlreadyRegistered": "La uzantnomo estas ja registrigita",
-        "Register.UsernameAlreadyRegistered.Description": "Konto uzante ĉi tiun uzantnomon ja ekzistas, se vi forgesis vian pasvorton vi povas alklaki \"Pasvorto Perdita\". Or vi povas kontakti subtenadon per support.resonite.com.",
+        "Register.UsernameAlreadyRegistered.Description": "Konto uzante ĉi tiun uzantnomon ja ekzistas, se vi forgesis vian pasvorton vi povas alklaki \"Pasvorto Perdita\". Or vi povas kontakti subtenadon per {supportUrl}.",
 
         "Register.ErrorCheckingUserId": "Eraro dum kontrolo de la Uzantnumero",
-        "Register.ErrorCheckingUserId.Description" : "Bonvolu kontakti subtenadon per support.resonite.com.",
+        "Register.ErrorCheckingUserId.Description" : "Bonvolu kontakti subtenadon per {supportUrl}.",
 
         "Recovery.MissingEmail" : "Retpoŝta Adreson mankas",
         "Recovery.MissingEmail.Description" : "Ĉu vi difinis vian retpoŝtan adreson?",
@@ -511,10 +511,10 @@
         "Recovery.IncorrectEmail.Description" : "Vi eniris malĝustan retpoŝtan adreson por la pasvorta restarigo. Bonvolu kontroli la detalojn kaj reprovi.",
 
         "Recovery.NoPasswordSetup" : "Neniu Pasvorto Agordita", 
-        "Recovery.NoPasswordSetup.Description" : "Bonvolu kontakti la subtenejon per support.resonite.com.",
+        "Recovery.NoPasswordSetup.Description" : "Bonvolu kontakti la subtenejon per {supportUrl}.",
         
         "Register.UnknownError": "Nekonata Eraro",
-        "Register.UnknownError.Description": "Nekonata eraro okazis dum registratdo. Bonvolu kontakti la subtenejon per support.resonite.com",
+        "Register.UnknownError.Description": "Nekonata eraro okazis dum registratdo. Bonvolu kontakti la subtenejon per {supportUrl}",
         
         "Account.Login": "Ensaluti",
         "Account.Logout": "Elsaluti",
@@ -547,7 +547,7 @@
         "Account.ErrorPasswordMismatch": "Pasvortoj ne kongruas!",
         "Account.ErrorEmailMismatch": "Retpoŝtoj ne kongruas!",
         "Account.ErrorLoginError": "Ensaluta Eraro:",
-        "Account.RegistrationSuccess": "<size=120%> Sukceso!</size><br><br> Retpoŝto estis sendita al {email} kun kontrola ligilo. <br><br> Post kiam vi alklakos ĉi tiun ligon, ni aŭtomate ensalutos. vin dum ĉi tiu dialogo estos malfermita. <br><br> Se vi havas problemojn, kontaktu nin ĉe hello@{appName}.com aŭ discord.gg/resonite",
+        "Account.RegistrationSuccess": "<size=120%> Sukceso!</size><br><br> Retpoŝto estis sendita al {email} kun kontrola ligilo. <br><br> Post kiam vi alklakos ĉi tiun ligon, ni aŭtomate ensalutos. vin dum ĉi tiu dialogo estos malfermita. <br><br> Se vi havas problemojn, kontaktu nin ĉe at {appEmail} aŭ {appCommunity}",
         "Account.BirthMonth": "Naskiĝmonato:",
         "Account.BirthDay": "Naskiĝtago:",
         "Account.BirthYear": "Naskiĝjaro:",
@@ -602,8 +602,8 @@
         "Profile.Status.Invisible": "Nevidebla",
         "Profile.Status.Offline": "Senkonekta",
         "Profile.Status.Headless": "Senkapa Gastigo",
-                "Profile.Status.Bot": "<b>Bot:</b> {version}",
-                "Profile.Status.ChatClient": "<b>Chat client:</b> {version}",
+        "Profile.Status.Bot": "<b>Roboto:</b> {version}",
+        "Profile.Status.ChatClient": "<b>Babil-kliento:</b> {version}",
 
         "Session.Tab.Settings": "Agordoj",
         "Session.Tab.Users": "Uzantoj",
@@ -668,20 +668,20 @@
         "Contacts.SearchResult": "Serĉrezulto",
         "Contacts.Bot": "Bot-konto",
         "Contacts.Migrated": "Kontaktulo Ankoraŭ ne Migris",
-                "Contacts.IncompatibleSession" : "Incompatible session",
+        "Contacts.IncompatibleSession" : "Malkongrua seanco",
 
-                "Notifications.IsSociable": "Is sociable, poke or invite them!",
+        "Notifications.IsSociable": "Estas societema, puŝetu aŭ invitu ilin!",
         "Notifications.IsOnline": "Nun estas Interrete",
         "Notifications.IsOnlineOnDifferentVersion": "Nun estas Interrete <size=75%>(uzante version: {version})</size>",
         "Notifications.ReceivedContactRequest": "Sendis kontaktopeton",
         "Notifications.ReceivedInvite": "Invitas vin al:",
         "Notifications.ReceivedItem": "Sendis al vi eron:",
         "Notifications.VoiceMessage": "Sendis voĉan mesaĝon",
-                "Notifications.SessionStarted": "Started session:",
-                "Notifications.UserJoined": "User joined",
-                "Notifications.UserLeft": "User left",
-                "Notifications.PermissionChanged": "Role changed to {new}",
-                "Notifications.PermissionChangedDetail": "In {world}. Previous role: {old}",
+        "Notifications.SessionStarted": "Komencis seancon:",
+        "Notifications.UserJoined": "Uzanto aligis",
+        "Notifications.UserLeft": "Uzanto foriris",
+        "Notifications.PermissionChanged": "Rolo ŝanĝis al {new}",
+        "Notifications.PermissionChangedDetail": "En {world}. Antaŭa rolo: {old}",
 
         "Undo.SetField": "Agordi kampon {field_name} al {value}",
         "Undo.SetReference": "Agordi referencon {ref_name} al {ref_target}",
@@ -721,9 +721,9 @@
         "Tools.Brush.IncrementSize" : "Pligrandi Grandon",
         "Tools.Brush.DecrementSize" : "Malpligrandigi Grandon",
 
-                "Tools.GeometryLineBrush.Name": "Geometry Line Brush",
+        "Tools.GeometryLineBrush.Name": "Peniko de geometriaj linioj",
 
-                "Tools.Dev.Name": "Development Tool",
+        "Tools.Dev.Name": "Konstruilo",
         "Tools.Dev.CreateNew": "Krei novan...",
         "Tools.Dev.Selection": "Elekto: {mode}",
         "Tools.Dev.DevMode.Off": "Programisto: Malŝaltita",
@@ -747,16 +747,16 @@
         "Tools.Dev.Interaction.Tip": "Pinto",
         "Tools.Dev.Interaction.Projection": "Projekcio",
 
-                "Tools.Color.Name": "Color Tool",
+        "Tools.Color.Name": "Kolorilo",
         "Tools.Color.Picker": "Kolora elektilo",
 
-                "Tools.GrabbableSetter.Name": "Grabbable Setter Tool",
+        "Tools.GrabbableSetter.Name": "Agordilo de Ekprenebleco",
         "Tools.GrabbableSetter.Scalable": "Agordi Skaleblan",
         "Tools.GrabbableSetter.NonScalable": "Agordi Neskaleblan",
         "Tools.GrabbableSetter.ApplyToRoot": "Agordi 'Apliki al Radiko'",
         "Tools.GrabbableSetter.AppyToHit": "Agordi 'Apliki por Trafo'",
 
-                "Tools.CharacterCollider.Name": "Character Collider Setter Tool",
+        "Tools.CharacterCollider.Name": "Agordilo de Karakter-Kolizio",
         "Tools.CharacterCollider.MarkGrippable": "Marki Teniebla",
         "Tools.CharacterCollider.DontMarkGrippable": "Ne Marki Teniebla",
         "Tools.CharacterCollider.EnsureWalkRun": "Certigi Marŝi / Kuri movadon",
@@ -767,19 +767,19 @@
         "Tools.Light.Spot": "Spoto",
         "Tools.Light.Sun": "Suno",
 
-                "Tools.Light.Name": "Light Tool",
+        "Tools.Light.Name": "Lumilo",
         "Tools.Light.Shadows.None": "Neniuj Ombroj",
         "Tools.Light.Shadows.Hard": "Malmolaj Ombroj",
         "Tools.Light.Shadows.Soft": "Molaj Ombroj",
 
-                "Tools.MeshVisibility.Name": "Mesh Visibility Tool",
+        "Tools.MeshVisibility.Name": "Ilo de Maŝa Videblo",
         "Tools.MeshVisibility.KeepShadow": "Konservi Ombron",
         "Tools.MeshVisibility.ShadowOff": "Malŝalti Ombron",
         "Tools.MeshVisibility.ShadowOn": "Ebligi Ombron",
         "Tools.MeshVisibility.OnlyShadow": "Agordi kiel nur ombron",
         "Tools.MeshVisibility.DoubleSidedShadow": "Agordi al duflanka ombro",
 
-                "Tools.Mesh.Name": "Mesh Tool",
+        "Tools.Mesh.Name": "Maŝilo",
 
         "Tools.Slicer.Name": "Tranĉilo de Objektoj",
         "Tools.Slicer.Add": "Aldoni tranĉilon",
@@ -832,30 +832,30 @@
         "Tools.Meter.Points.Two" : "Du Punkoj",
         "Tools.Meter.Points.Multiple" : "Multaj Punktoj",
  
-                "Tools.Meter.Name": "Meter Tool",
+        "Tools.Meter.Name": "Mezurilo",
         "Tools.Meter.ObjectSpace" : "Mezuri en Spaco de Objektoj",
         "Tools.Meter.WorldSpace" : "Mezuri en Spaco de Mondo",
 
-                "Tools.Glue.Name": "Glue Tool",
-        "Tools.Glue.Mode.BakeMeshes" : "Reĝimo: Bake meshes",
-        "Tools.Glue.Mode.BakeSkinnedMeshes" : "Reĝimo: Bake skinned meshes",
+        "Tools.Glue.Name": "Gluilo",
+        "Tools.Glue.Mode.BakeMeshes" : "Reĝimo: baki maŝojn",
+        "Tools.Glue.Mode.BakeSkinnedMeshes" : "Reĝimo: baki haŭtigitajn maŝojn",
         "Tools.Glue.Mode.ParentObjects" : "Reĝimo: Gepatrigi objektojn",
 
-                "Tools.RigTransfer.Name": "Rig Mesh Transfer Tool",
+        "Tools.RigTransfer.Name": "Transigilo de Rigita Maŝo",
         "Tools.RigTransfer.ClearSource" : "Forigi fonton",
 
-                "Tools.ComponentClone.Name": "Component Clone Tool",
+        "Tools.ComponentClone.Name": "Klonilo de Komponantoj",
         "Tools.ComponentClone.SingleInstanceOn" : "Ununura Apero: Eblita",
         "Tools.ComponentClone.SingleInstanceOff" : "Ununura Apero: Maleblita",
         "Tools.ComponentClone.ClearTemplate" : "Defaŭltigi ŝablonon",
 
-                "Tools.Shape.Name": "Shape Tool",
+        "Tools.Shape.Name": "Formilo",
 
-                "Tools.CameraObjectHider.Name": "Camera Object Hider Tool",
+        "Tools.CameraObjectHider.Name": "Kaŝilo de Fotilaj Objektoj",
 
-                "Tools.ControllerDiagnostic.Name": "Controller Diagnostic Tool",
+        "Tools.ControllerDiagnostic.Name": "Diagnozilo de Kontroliloj",
 
-                "Tools.Labeler.Name": "Labeler Tool",
+        "Tools.Labeler.Name": "Etikedilo",
 
         "ProtoFlux.UI.Call" : "Pasigo",
         "ProtoFlux.UI.AsyncCall" : "<size=50%>Nesinkrona</size> Pasigo",
