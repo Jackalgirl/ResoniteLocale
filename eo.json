@@ -81,8 +81,8 @@
         "Interaction.Destroy": "Detrui",
         "Interaction.Duplicate": "Duobligi",
         "Interaction.SaveToInventory": "Konservi En Inventaro",
-        "Interaction.SaveToInventory.NotLoggedIn": "You must be logged in to save items.",
-        "Interaction.SaveToInventory.NoWritePermission": "Cannot save to current inventory folder.",
+        "Interaction.SaveToInventory.NotLoggedIn": "Vi devas ensalti por konservi erojn.",
+        "Interaction.SaveToInventory.NoWritePermission": "Ne eblas konvervi al nuna dosierujo de la inventaro.",
         "Interaction.Undo": "Malfari",
         "Interaction.Redo": "Refari",
         "Interaction.EquipTool": "Ekipi",
@@ -112,7 +112,7 @@
         "Interaction.ImportFile": "Importi dosieron",
         "Interaction.ExportFile": "Eksporti dosieron",
         "Interaction.CopyLink": "Kopii Ligilon",
-        "Interaction.CopyImage": "Copy Image",
+        "Interaction.CopyImage": "Kopii Bildon",
 
         "Inventory.OpenWorld": "Malfermi Mondon",
         "Inventory.Equip": "Ekipi",
@@ -183,7 +183,7 @@
         "World.Connection.SyncingInitialState": "Sinkroniganta komencan mondostaton",
 
         "World.Connection.LNL.DirectIP": "LNL Rekta IP",
-        "World.Connection.LNL.LNLPoke": "Requesting LNL Poke",
+        "World.Connection.LNL.LNLPoke": "Petanta Puŝeton de LNL",
         "World.Connection.LNL.NATPunchthrough": "LNL NAT Tra-truigado {n}",
         "World.Connection.LNL.Relay": "LNL Relajso",
         "World.Connection.SteamNetworkingSockets": "Steam-retaj konekt-interfacoj",
@@ -212,8 +212,8 @@
         "World.Error.WorldCrashDetail" : "Neriparebla eraro dum la ĝisdatigo de la mondo",
         "World.Error.Handshake": "Handshake Error",
         "World.Error.Unknown": "Nekonanta Eraro",
-        "World.Error.FailedToCreateBanAccessKey": "Failed to create ban access key",
-        "World.Error.UnhandledError": "Unhandled Error",
+        "World.Error.FailedToCreateBanAccessKey": "Malsukcesis kreii alirklavon de forbari",
+        "World.Error.UnhandledError": "Netraktita Eraro",
 
         "World.Config.Name": "Nomo de la mondo:",
         "World.Config.Description": "Priskribo:",
@@ -317,7 +317,7 @@
         "World.AccessLevel.Contacts": "Kuntaktuloj",
         "World.AccessLevel.ContactsPlus": "Kuntaktuloj+",
         "World.AccessLevel.LAN": "LAN",
-        "World.AccessLevel.Private": "Privata (nur invito)",
+        "World.AccessLevel.Private": "Privata (nur per invito)",
 
         "World.SortParameter.SearchScore": "Serĉa Poentaro",
         "World.SortParameter.Name": "Nomo",
@@ -361,7 +361,7 @@
         "World.Edit.AccessPrivate": "Nur mi",
         "World.Edit.AccessPatreon": "Subtenantoj de Patreon",
         "World.Edit.AccessPublic": "Iu ajn (publika)",
-                "World.Edit.ReadOnly": "ReadOnly",
+        "World.Edit.ReadOnly": "Nurlega",
 
         "Tools.AvatarCreator": "Avatar-Kreinto",
         "Tools.FullBodyCalibrator": "Plena Korpa /Avatar-Kalibrilo",
